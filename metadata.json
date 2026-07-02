@@ -1,0 +1,5 @@
+{
+  "name": "Moda d'Angola",
+  "description": "A responsive shopping application clone with mobile navbar and desktop sidebar.",
+  "requestFramePermissions": ["camera"]
+}

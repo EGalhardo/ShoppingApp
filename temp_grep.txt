@@ -1,0 +1,3 @@
+                         onAdd={() => setPaymentMethods([...paymentMethods, { id: Date.now(), type: 'Visa', last4: '8888', expiry: '12/28', isDefault: false }])}
+                         onAdd={() => setPaymentMethods([...paymentMethods, { id: Date.now(), type: 'Visa', last4: '8888', expiry: '12/28', isDefault: false }])}
+                         onAdd={() => setPaymentMethods([...paymentMethods, { id: Date.now(), type: 'Visa', last4: '8888', expiry: '12/28', isDefault: false }])}
